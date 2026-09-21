@@ -1,4 +1,4 @@
-## Hi 👋 I'm Wu L.C.
+## Hi, I'm Wu L.C.
 * 🌳 I am currently a graduate student at the Robotics Institute, School of Mechanical Engineering, Shanghai Jiao Tong University.
 * 🤞🏾 My research focuses on **dexterous manipulation**, with particular interests in **generative policies, Flow Matching, and reinforcement learning**.
 * 🏄🏾‍♂️ I am currently exploring learning-based methods for **dexterous grasping and dynamic manipulation**.
